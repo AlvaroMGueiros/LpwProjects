@@ -1,0 +1,21 @@
+O que é um repositório no GIT?
+
+- Lugar onde se armazena projetos e arquivos, ppublicos ou privados.
+
+Qual o tipo de arquitetura do GIT?
+
+- MVP
+
+Qual o comando para enviar um código para o Git?
+
+- Git push
+
+Qual o comando para recuperar um código do Git?
+
+-git gc --auto
+
+Façam o diagrama de classes do projeto
+
+
+https://blog.algaworks.com/o-que-e-angular/
+https://loiane.training/curso/angular
