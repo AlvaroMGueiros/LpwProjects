@@ -1,0 +1,39 @@
+[RF001]inserção de dados
+-Usuarios:Admin
+-Prioridade:Essencial
+
+[RF002]Gerar relatórios
+-Usuarios:Admin
+-Prioridade:Essencial
+
+[RF003]Login
+
+-Prioridade:Essencial
+
+[RF004]Bate-Papo com guias
+
+-Prioridade:Importante
+
+[RF005]Serviço Web
+
+-Prioridade:Importante
+
+[RF006]Layout Amigavel
+
+-Prioridade:Importante
+
+[RF007] Administrar guias
+
+-Prioridade:Essencial
+
+[RF008]Avaliações
+
+-Prioridade:Importante
+
+[RF009]Descrições de locais
+
+-Prioridade:Essencial
+
+[RF010]Logo
+
+-Prioridade:Essecial
